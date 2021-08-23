@@ -12,3 +12,6 @@ This file is just a read me file.
 
 The purpose of this file is to provide examples
 on how to use Git and GitHub together
+
+Startup Section
+This has info as to how to start the site.
